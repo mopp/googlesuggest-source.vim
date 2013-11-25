@@ -1,5 +1,5 @@
 ## googlesuggest-source.vim
-This is Vim Plugin for supporting googlesuggest-complete-vim to neocomplete.
+This is Vim Plugin that is wrapping googlesuggest-complete-vim to neocomplete.
 
 ## installation
     NeoBundle 'mopp/googlesuggest-source.vim'
